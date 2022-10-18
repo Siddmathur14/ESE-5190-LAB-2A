@@ -18,3 +18,20 @@
 
 6) This is done by the function * put_pixel() function*. This function takes its argument from another fucntion urgb_32() which converts the rgb values to rbg values which the PIO understands. At the lowest level , the **pio_sm_put_blocking** 
 
+# 3.3 ANNOTAIONS FOR ws2812.C
+
+![embedded_c1](https://user-images.githubusercontent.com/114244849/196307976-05af9e2a-d3d2-4847-a077-d6c97631ee3d.JPG)
+
+
+![embedded_c2](https://user-images.githubusercontent.com/114244849/196308018-2ddacf39-faf4-4dc2-bf59-087eda721dcb.JPG)
+
+
+![embedded_c3](https://user-images.githubusercontent.com/114244849/196308030-3c1b25bc-5c22-4dd1-a0da-bd543f8170bf.JPG)
+
+
+![embedded_c4](https://user-images.githubusercontent.com/114244849/196308049-ac4486b3-2af8-4518-99c4-45e7b3e78523.JPG)
+
+
+![embedded_c5](https://user-images.githubusercontent.com/114244849/196308069-88e2dddb-4e3c-42c7-804f-8d6d05becd84.JPG)
+
+
