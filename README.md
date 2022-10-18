@@ -50,7 +50,7 @@ Q)What role does the pioasm “assembler” play in the example, and how does th
 
 
 
-# #  ANNOTATIONS FOR WS2812.pio.h
+##  ANNOTATIONS FOR WS2812.pio.h
 
 ![embedded_h1](https://user-images.githubusercontent.com/114244849/196355989-a4ea90cf-5813-4533-aba3-f1060ab84ee2.JPG)
 
