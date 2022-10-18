@@ -65,7 +65,7 @@ Q)What role does the pioasm “assembler” play in the example, and how does th
 
 ## 3.4 COLOR BY NUMBER
 
-The Excel file can be accessed through the given link: [Excel_link] ( https://github.com/Siddmathur14/ESE-5190-LAB-2A/blob/main/ESE5190-3.7.xlsx
+The Excel file can be accessed through the given link: [Excel_link](https://github.com/Siddmathur14/ESE-5190-LAB-2A/blob/main/ESE5190-3.7.xlsx
 
 
 
