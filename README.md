@@ -49,3 +49,21 @@ Q)What role does the pioasm “assembler” play in the example, and how does th
 ![embedded_c5](https://user-images.githubusercontent.com/114244849/196308069-88e2dddb-4e3c-42c7-804f-8d6d05becd84.JPG)
 
 
+
+# #  ANNOTATIONS FOR WS2812.pio.h
+
+![embedded_h1](https://user-images.githubusercontent.com/114244849/196355989-a4ea90cf-5813-4533-aba3-f1060ab84ee2.JPG)
+
+![embedded_h2](https://user-images.githubusercontent.com/114244849/196356067-867041a5-4a26-4be2-bc4c-af5e2e332eb1.JPG)
+
+![embedded_h3](https://user-images.githubusercontent.com/114244849/196356150-34570339-2ca8-42b2-9cd0-c4048fa06903.JPG)
+
+![embedded_h4](https://user-images.githubusercontent.com/114244849/196356241-aa914f54-79a1-4543-a976-7e1c4b70845a.JPG)
+
+![embedded_h5](https://user-images.githubusercontent.com/114244849/196356300-8d6653ef-a938-448f-bf05-5fac8d3a23b3.JPG)
+
+
+
+
+
+
