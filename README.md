@@ -69,7 +69,8 @@ The Excel file containing all the register  values can be accessed through the g
 
 ## MODELING TIME 
 
-![WhatsApp Image 2022-10-18 at 03 12 39](https://user-images.githubusercontent.com/114244849/196361620-85f05450-d835-4ead-ad9a-b4a92b47aa1f.jpeg)
+![WhatsApp Image 2022-10-18 at 03 12 39](https://user-images.githubusercontent.com/114244849/196362052-a35447a9-db77-41d2-b68d-aaea8a9abedf.jpeg)
+
 
 
 
