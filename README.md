@@ -67,7 +67,7 @@ Q)What role does the pioasm “assembler” play in the example, and how does th
 
 The Excel file containing all the register  values can be accessed through the given link:[Excel_link](https://github.com/Siddmathur14/ESE-5190-LAB-2A/blob/main/ESE5190-3.7.xlsx)
 
-## MODELING TIME 
+## 3.5  MODELING TIME 
 
 ![WhatsApp Image 2022-10-18 at 03 12 39](https://user-images.githubusercontent.com/114244849/196362052-a35447a9-db77-41d2-b68d-aaea8a9abedf.jpeg)
 
